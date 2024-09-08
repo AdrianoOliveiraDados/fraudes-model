@@ -1,0 +1,6 @@
+streamlit
+tensorflow==2.12.0  # Use uma versão estável e compatível com o Streamlit Cloud
+scikit-learn
+pillow
+# Adicione outras dependências necessárias aqui
+pip==24.2  # Adicione esta linha no início do seu requirements.txt para forçar a atualização do pip
